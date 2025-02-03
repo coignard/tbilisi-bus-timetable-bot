@@ -1,4 +1,4 @@
-# Tbilisi Bus Timetable Bot
+# 🚌 Tbilisi Bus Timetable Bot
 
 This Telegram bot provides real-time bus arrival information for public transport stops in Tbilisi, Georgia. Try it now: [@tbilisi_bus_timetable_bot](https://t.me/tbilisi_bus_timetable_bot)
 
